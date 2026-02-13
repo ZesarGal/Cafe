@@ -837,4 +837,3 @@ with tab5:
 
     st.markdown("</div>", unsafe_allow_html=True)
 
-st.caption("Para Streamlit Cloud: deja Base_Cafe.csv y cafe_2.py en la raíz del repo. En 'Main file path' pon cafe_2.py.")
