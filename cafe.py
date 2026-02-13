@@ -196,7 +196,7 @@ st.markdown(
     <div class="hero">
       <h1>☕ Café México — precios, calidad y cadenas globales de valor</h1>
       <p>Explora heterogeneidad por estado, segmentación (especialidad vs convencional), robustez (winsor),
-      correlaciones y estructura latente (PCA) con visualizaciones tipo “demo-movies”.</p>
+      correlaciones y estructura latente (PCA) con visualizaciones”.</p>
       <div class="badges">
         <span class="badge">CGV</span>
         <span class="badge">Prima de calidad</span>
