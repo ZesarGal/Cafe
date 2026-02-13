@@ -21,7 +21,7 @@ from sklearn.impute import SimpleImputer
 # Page config
 # -------------------------------
 st.set_page_config(
-    page_title="Café México — Dashboard (Altair, Q1)",
+    page_title="Café México — Dashboard",
     page_icon="☕",
     layout="wide",
     initial_sidebar_state="expanded",
